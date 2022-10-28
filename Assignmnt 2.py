@@ -22,7 +22,7 @@ _Rohail = [77, 78, 85,86,86,86,87,87,88,94,99,103]
 even = np.median(_Rohail)
 print(even)
 
-# print("Qno. 3: Find the mode of the dataset, hence we use Hamza_1 dataset")
+# print("Qno. 3: Find the mode of the dataset, hence we use _Rohail dataset")
 #
 # sp = np.mod(Rohail_1)
 # print(sp)
