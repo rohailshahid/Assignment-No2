@@ -1,3 +1,8 @@
+# Example 5.3
+# We have created a progam with if condition to print the massage if it matches the true condition 
+
+
+
 alien_color = 'green'
 
 if alien_color == 'green':
@@ -7,6 +12,17 @@ else:
 
 
     alien_color = 'yellow'
+
+if alien_color == 'green':
+    print("You just earned 5 points!")
+else:
+    print("You just earned 10 points!")
+
+
+# Example 5.4
+# We use if else condition where color is green to print the relivent true output.
+
+alien_color = 'yellow'
 
 if alien_color == 'green':
     print("You just earned 5 points!")
