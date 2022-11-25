@@ -1,7 +1,7 @@
 # Rana Rohail Shahid
 from sklearn.feature_extraction.text import CountVectorizer
 
-document = ["How are you ","It's a pleasure To meet you","My dream is to work in Google Company"]
+document = ["How are you ","It's a pleasure To meet you","My dream is to work in netsol"]
 
 # Create a Vectorizer Object
 vectorizer = CountVectorizer()
